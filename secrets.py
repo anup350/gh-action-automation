@@ -1,1 +1,0 @@
-GIT_PAT     = "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"
